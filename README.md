@@ -3,7 +3,7 @@
 **ENG**: I'm a fullstack developer at MTES-MCT. I'm curious about new technologies, but I try to maintain the wisdom of not rushing into a technology just for the sake of discovering a new playground.
 I try to embrace any technology that will help me improve service to the community in the broadest sense. 
 
-**FR**: Je suis développeur fullstack au MTES-MCT. Je suis curieux et avides de connaître toute nouvelle technologie, mais j'essaie de rester sage et de ne pas me ruer sur une technologie juste pour le plaisir de découvrir un nouveau terrain de jeu.
+**FR**: Je suis développeur fullstack au MTES-MCT. Je suis curieux et avide de connaître toute nouvelle technologie, mais j'essaie de rester sage et de ne pas me ruer sur une technologie juste pour le plaisir de découvrir un nouveau terrain de jeu.
 J'utilise une technologie parce qu'elle m'aidera à améliorer le service à la communauté au sens le plus large. 
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=ch-benard&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
