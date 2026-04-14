@@ -22,7 +22,7 @@ J'utilise une technologie parce qu'elle m'aidera à améliorer le service à la 
 - 💻 Web Developpement
 - 🎮 Video Game Development
 - 🎸 Music (Guitar and Bass)
-- 🏍 Motorbike (MX)
+- 🏍 Motorbike
 - 🏄‍♀️ Water Sports (Wing Foil, Wakeboard)
 - 🥋 Vietnamese Martial Art
 - 🛠 Making things by myself (DIY)
@@ -31,7 +31,7 @@ J'utilise une technologie parce qu'elle m'aidera à améliorer le service à la 
 - 💻 Développement Web
 - 🎮 Développement de jeux Vidéo
 - 🎸 Musique (Guitare et Basse)
-- 🏍 Motocross
+- 🏍 Moto
 - 🏄‍♀️ Sports nautiques (Wing Foil, Wakeboard)
 - 🥋 Art Martial Vietnamien
 - 🛠 Faire des choses par moi-même (DIY)
