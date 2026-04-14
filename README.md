@@ -1,4 +1,4 @@
-# Hi, I'm Christophe ! 👋 Salut, moi c'est Christophe !
+# Hi, I'm Christophe 👋 Salut, moi c'est Christophe
 
 **ENG**: I'm a fullstack developer at MTES-MCT. I'm curious about new technologies, but I try to maintain the wisdom of not rushing into a technology just for the sake of discovering a new playground.
 I try to embrace any technology that will help me improve service to the community in the broadest sense. 
