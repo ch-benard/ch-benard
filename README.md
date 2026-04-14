@@ -46,6 +46,7 @@ J'utilise une technologie parce qu'elle m'aidera à améliorer le service à la 
 - Building server-side applications with Node.js and Express.js, a powerful javascript/typescript web framework.
 - Diving into PostgreSQL for efficient and scalable database management.
 - Using Sequelize as the bridge connecting the Node.js code with the Postgresql database
+
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
 **FR**:
@@ -56,4 +57,5 @@ Thanks for stopping by! Let's connect and explore the fascinating world of techn
 - Construire des applications côté serveur avec Node.js et Express.js, un puissant framework web javascript/typescript.
 - Stocker les données en base PostgreSQL pour une gestion efficace et évolutive des bases de données.
 - Utiliser Sequelize comme pont entre le code Node.js et la base de données Postgresql.
+
 Merci de votre visite ! Restons en contact et partons ensemble à la découverte du monde fascinant de la technologie. 🚀
