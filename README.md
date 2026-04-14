@@ -6,8 +6,6 @@ I try to embrace any technology that will help me improve service to the communi
 **FR**: Je suis développeur fullstack au MTES-MCT. Je suis curieux et avide de connaître toute nouvelle technologie, mais j'essaie de rester sage et de ne pas me ruer sur une technologie juste pour le plaisir de découvrir un nouveau terrain de jeu.
 J'utilise une technologie parce qu'elle m'aidera à améliorer le service à la communauté au sens le plus large. 
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=ch-benard&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ## About Me 🚀 A Propos de Moi
 
 **ENG**:
